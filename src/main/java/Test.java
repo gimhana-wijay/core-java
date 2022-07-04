@@ -12,5 +12,8 @@ public class Test {
 		if (Empty.isNotEmpty(a)) {
 			System.out.println(a);
 		}
+		if (Empty.isNotEmpty(b)) {
+			System.out.println(b);
+		}
 	}
 }
