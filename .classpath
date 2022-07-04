@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/dilaj/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.8/448003bc1b234aac04b58e27d7755c12c3ec4236/lombok-1.18.8.jar" sourcepath="/home/dilaj/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.8/1aa07070912b2caee846638641606f3b2f1f440a/lombok-1.18.8-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="/aero-pay-core-service"/>
+	<classpathentry kind="lib" path="/home/dilaj/.gradle/caches/modules-2/files-2.1/com.couchbase.client/core-io/1.7.18/2985ad6d9dea571330d2713dc9e21a0c23d89a1f/core-io-1.7.18.jar" sourcepath="/home/dilaj/.gradle/caches/modules-2/files-2.1/com.couchbase.client/core-io/1.7.18/28f49df6fc589d49103dafa353d5b9285349937a/core-io-1.7.18-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/dilaj/.gradle/caches/modules-2/files-2.1/com.couchbase.client/java-client/2.7.18/bc50d5f58658afde46be1e0f528c2ac24802abb6/java-client-2.7.18.jar" sourcepath="/home/dilaj/.gradle/caches/modules-2/files-2.1/com.couchbase.client/java-client/2.7.18/d53f69590b3c648a8c776230bcf967d4b2b3aeae/java-client-2.7.18-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/dilaj/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar" sourcepath="/home/dilaj/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/c5b4c491aecb72e7c32a78da0b5c6b9cda8dee0f/gson-2.8.5-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
